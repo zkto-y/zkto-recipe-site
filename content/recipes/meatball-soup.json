@@ -1,0 +1,49 @@
+{
+  "slug": "meatball-soup",
+  "title": "Meatball Soup",
+  "subtitle": "My childhood memories. A comforting and hearty soup perfect for any day.",
+  "servings": "4 servings",
+  "time": "1 hr (including prep)",
+  "dateAdded": "2026-08-14",
+  "coverImage": "/images/meatball-soup/meatball-soup-cover.png",
+  "images": [
+    { "type": "video", "youtubeId": "ibtxnmvjnC0" },
+    { "type": "image", "src": "/images/meatball-soup/step-1-shape-meatballs.png" },
+    { "type": "image", "src": "/images/meatball-soup/step-2-cook-tomatoes.png" },
+    { "type": "image", "src": "/images/meatball-soup/step-3-add-peas.png" }
+  ],
+  "ingredientGroups": [
+    {
+      "heading": "Meatballs:",
+      "items": [
+        "1 lbs ground pork",
+        "1 tsp ground cumin",
+        "1 tsp marjoram",
+        "s&p",
+        "2 tbsp flour"
+      ]
+    },
+    {
+      "heading": "For the soup:",
+      "items": [
+        "1 large onion",
+        "2 cups cherry(or any fresh) tomatoes",
+        "1/2 can tomato sauce",
+        "3-4 large potatoes",
+        "1/2 tsp mexican oregano",
+        "1/2 tsp paprika",
+        "1 can green peas"
+      ]
+    }
+  ],
+  "directions": [
+    "Mix together the ground 1 lbs pork, 1 tsp cumin, 1 tsp marjoram, s&p. Form into small meatballs.",
+    "Roll meatballs in flour.",
+    "In a large pot, heat some oil over medium heat. Add 1 chopped onion and cook until translucent.",
+    "Add 2 cups cherry tomatoes, 1/2 can tomato sauce and 1/2 tsp paprika. Cook until tomatoes fall apart. About 15 mins.",
+    "Add the meatballs to boiling pot and cook until firm. About 10 mins.",
+    "Add 3-4 large potatoes, peeled and cut into chunks. Add 1/2 tsp crushed mexican oregano. Cook until tender. About 15 mins.",
+    "Stir in 1 can (or 1 cup frozen) green peas and cook for an additional 5 minutes.",
+    "Taste and adjust s&p. Enjoy!"
+  ]
+}

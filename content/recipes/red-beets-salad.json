@@ -1,0 +1,35 @@
+{
+  "slug": "red-beets-salad",
+  "title": "Red Beets Salad",
+  "subtitle": "A vibrant and healthy salad that's perfect for any occasion.",
+  "servings": "4 servings",
+  "time": "32 mins",
+  "dateAdded": "2026-07-10",
+  "coverImage": "/images/red-beets-salad/red-beets-salad-cover.png",
+  "images": [
+    { "type": "video", "youtubeId": "dTEzUoK-bsE" },
+    { "type": "image", "src": "/images/red-beets-salad/step-1-boil-red-beets.png" },
+    { "type": "image", "src": "/images/red-beets-salad/step-2-crush-walnuts.png" },
+    { "type": "image", "src": "/images/red-beets-salad/red-beets-salad-cover.png" }
+  ],
+  "ingredientGroups": [
+    {
+      "items": [
+        "2 red beets",
+        "2 tbsp crushed walnuts",
+        "1 tbsp olive oil",
+        "1 tsp balsamic vinegar (Costco brand is exceptional tasty)",
+        "salt to taste",
+        "sprinkle fresh dill"
+      ]
+    }
+  ],
+  "directions": [
+    "Trim, clean and peel 2 red beets.",
+    "Boil for 30 mins, or until tender when pierced with a knife.",
+    "Chop the beets into pieces.",
+    "Crush 1/4 cup walnuts.",
+    "In a large bowl, combine the chopped beets, crushed walnuts, 1 tbsp olive oil, 1 tsp balsamic vinegar, salt, and dill. Mix well.",
+    "That's all. Enjoy!"
+  ]
+}
