@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import recipesLib from '../../lib/recipes';
 import { ForkKnifeIcon, ClockIcon, DateIcon } from '../../components/icons';
+import SocialLinks from '../../components/SocialLinks';
 
 export async function getStaticPaths() {
   const slugs = recipesLib.getRecipeSlugs();
@@ -26,6 +27,7 @@ export default function RecipePage({ recipe }) {
 
       <div className="site-shell">
         <header className="site-header">
+          <SocialLinks placement="top" />
           <Link href="/">
             <h1>The Recipe Box</h1>
           </Link>
@@ -95,7 +97,17 @@ export default function RecipePage({ recipe }) {
         </div>
 
         <footer className="site-footer">
-          <p>Made with love, one pan at a time.</p>
+          <SocialLinks />
+          <div className="footer-credits">
+            <div className="footer-credit">
+              <h2>Recipes by</h2>
+              <p>ZKTO</p>
+            </div>
+            <div className="footer-credit">
+              <h2>Website made by</h2>
+              <p>ZKTO</p>
+            </div>
+          </div>
         </footer>
       </div>
     </>
