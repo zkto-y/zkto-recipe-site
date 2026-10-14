@@ -1,0 +1,54 @@
+{
+  "slug": "cabbage-dumpling-soup",
+  "title": "Cabbage dumpling soup",
+  "subtitle": "A comforting cabbage soup with mushrooms and dumpling filling.",
+  "servings": "4 servings",
+  "time": "45 min",
+  "dateAdded": "2026-09-04",
+  "coverImage": "/images/cabbage-dumpling-soup/cabbage-dumpling-soup-cover.png",
+  "images": [
+    { "type": "video", "youtubeId": "ntmnJT43O48" },
+    { "type": "image", "src": "/images/cabbage-dumpling-soup/step-1-saute-mushrooms.png" },
+    { "type": "image", "src": "/images/cabbage-dumpling-soup/step-2-add-cabbage.png" },
+    { "type": "image", "src": "/images/cabbage-dumpling-soup/step-3-add-dumpling-filling.png" }
+  ],
+  "ingredientGroups": [
+    {
+      "heading": "Soup:",
+      "items": [
+        "4 oz Mushrooms (about half a small pack)",
+        "1 large onion",
+        "3 garlic cloves",
+        "1/4 head cabbage",
+        "2 cups water",
+        "1 tsp red miso paste",
+        "3-4 radishes for garnish",
+        "1 green onion",
+        "1/4 tsp soy sauce",
+        "1/4 tsp apple cider vinegar"
+      ]
+    },
+    {
+      "heading": "Dumpling Filling:",
+      "items": [
+        "8 oz ground beef",
+        "1 egg",
+        "1tsp soy sauce",
+        "1/2 tsp mirin",
+        "dash of white pepper"
+      ]
+    }
+  ],
+  "directions": [
+    "Slice and saute the mushrooms. Once browned, remove from pan and set aside.",
+    "Add chopped garlic and onions to hot pan. Cook for a few minutes.",
+    "Add 1 tsp red miso paste to soften onions. Stir until paste is well disolved.",
+    "Add chopped cabbage. Cover with water (about 2 cups, or just enough to cover the cabbage. Let it come to a boil.",
+    "Once boiling, scoop groud beef into teaspoon and drop in the hot soup. (No need to shape perfect round balls, just scoop and drop).",
+    "Cook the soup with dumpling filling for 10 mins, unitl ground meat is cooked through.",
+    "Add back coocked mushrooms.",
+    "Prepare savory topping by chopping red radish, season with dash of vinegar and soy sauce.",
+    "Garnish soup with seasoned radish and green onions.",
+    "That's all. Enjoy!"
+  ]
+}
